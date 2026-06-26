@@ -5,3 +5,4 @@ git testing with Source Contrtol
 git reset --soft HEAD~1
 git reset --mixed HEAD~1
 git reset --hard HEAD~1
+.env and .gitignore in gitignore .env eintragen damit wird sie nicht commitede
