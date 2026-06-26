@@ -2,3 +2,6 @@ git init für den start // for inizializing repository
 git add <file>
 git commit -m "your commit message"
 git testing with Source Contrtol
+git reset --soft HEAD~1
+git reset --mixed HEAD~1
+git reset --hard HEAD~1
